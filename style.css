@@ -1,0 +1,9 @@
+.head__tab {
+	font-size: 24px;
+	color: grey;
+	cursor: pointer;
+}
+
+.head__tab--active {
+	color: blue;
+}
